@@ -1,0 +1,15 @@
+{
+  "name": "Asistencia K8 · Bomberos Voluntarios Capiatá",
+  "short_name": "Asistencia K8",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#161A21",
+  "theme_color": "#161A21",
+  "lang": "es",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
